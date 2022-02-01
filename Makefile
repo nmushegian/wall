@@ -1,0 +1,1 @@
+all:; npx hardhat compile
